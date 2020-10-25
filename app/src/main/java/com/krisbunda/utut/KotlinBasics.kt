@@ -59,7 +59,7 @@ fun main() {
 
     val carriageReturn = " \r\n"
 
-    print("The answer is: " + result + carriageReturn)
+    print("The answer is: $result$carriageReturn")
 
 
 }
