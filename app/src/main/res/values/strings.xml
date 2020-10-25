@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">UTut</string>
+    <string name="hello_kris">Hello Kris!</string>
+    <string name="count_presses">Count Presses</string>
+</resources>
